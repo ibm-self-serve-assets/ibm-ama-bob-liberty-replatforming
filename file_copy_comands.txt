@@ -1,0 +1,7 @@
+chmod 600 ssh_private_key.pem
+
+ssh -i ssh_private_key.pem -p 2223 itzuser@169.59.28.101
+
+sudo dnf -y install podman
+
+scp -i ssh_private_key.pem -P 2223 -r application-modernization-accelerator-local-5.0.1 itzuser@169.59.28.101:~/ama/
