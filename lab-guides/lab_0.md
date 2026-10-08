@@ -1,4 +1,4 @@
-# Lab 00: Configure the Techzone Environment
+# Lab 0: Configure the Techzone Environment
 
 ## Overview
 

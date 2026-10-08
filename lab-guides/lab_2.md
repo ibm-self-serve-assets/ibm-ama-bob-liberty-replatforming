@@ -1,6 +1,6 @@
 # Lab 02: Modernizing a Traditional WebSphere Application to Liberty with Bob
 
-> **Prerequisites:** Complete [Lab 00](lab_0.md) and [Lab 01](lab_1.md). The project repository should be cloned at `~/Downloads/BOB_AMA/ibm-ama-bob-liberty-replatforming` and the AMA migration bundle should be available at `java-liberty-replatforming-websphere/migration-bundle/modresorts.ear_migrationBundle.zip`.
+> **Prerequisites:** Complete [Lab 00](lab_0.md) and [Lab 01](lab_1.md). The project repository should be cloned at `~/Downloads/BOB_AMA/ibm-ama-bob-liberty-replatforming` and the AMA migration bundle should be available at `java-liberty-replatforming-websphere/migration-bundle/modresorts.ear_migrationBundle.zip`. You must also have an IBM Bob account entitled to the **Java Modernization Premium Package**.
 
 ---
 
